@@ -1,0 +1,43 @@
+*{
+	box-sizing: border-box;
+}
+
+.container{
+
+	font-family: 'Lato', sans-serif;
+}
+
+img{
+	max-width: 100%
+}
+
+h3{
+	color: #7d97ad;
+}
+
+.logo{
+
+	margin-top: 20px;
+}
+
+.ruler{
+    border: 2px solid #7d97ad;
+}
+
+.fonty{
+
+    color: #2d3c49;
+
+}
+
+.wgt{
+
+	font-weight: bolder; 
+}
+
+.name{
+
+	font-size: 51px;
+	color: #7d97ad;
+
+}
